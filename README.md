@@ -30,6 +30,14 @@ Results-driven Senior QA Engineer with 8+ years of experience in software develo
 
 ### Professional Experience
 
+#### Calice | Sr. QA Engineer (Remote) | Jun 2025 - Dec 2025
+
+- Designed and implemented comprehensive automation test suites using Python and the Pytest framework for high-priority features.
+- Developed detailed test cases and organized test runs for new feature verification and maintenance testing.
+- Configured and integrated a GitHub Actions workflow to execute a full regression test suite automatically every Sunday, significantly improving release confidence and efficiency.
+- Managed the end-to-end automation lifecycle, from test design and scripting to execution and result analysis.
+- Actively collaborated with the development team within an Agile environment to ensure timely delivery and quality.
+
 #### SecureAuth (Remote) | Jan 2023 – Present
 - Designed and executed test cases, test suites, and test cycles using TestRail for unit, functional, exploratory, and integration testing.
 - Created comprehensive test documentation to ensure clarity and consistency in testing processes.
